@@ -1,1 +1,1 @@
-tean project, Dahab Rostom & Josephine Agyekum
+team project, Dahab Rostom & Josephine Agyekum
