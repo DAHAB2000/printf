@@ -1,5 +1,3 @@
-#include <limits.h>
-#include <stdio.h>
 #include "main.h"
 
 /**
@@ -9,6 +7,7 @@
  */
 int main(void)
 {
+<<<<<<< HEAD
 	int len;
 	int len2;
 	unsigned int ui;
@@ -41,4 +40,8 @@ int main(void)
 	_printf("Unknown:[%r]\n");
 	printf("Unknown:[%r]\n");
 	return (0);
+=======
+    _printf("%b\n", 98);
+    return (0);
+>>>>>>> 8aaf81369ec4245b8c13b7b4ed00f7d652139e06
 }
